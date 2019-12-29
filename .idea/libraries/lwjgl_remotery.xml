@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lwjgl-remotery">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-remotery/lwjgl-remotery.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-remotery/lwjgl-remotery-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-remotery/lwjgl-remotery-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-remotery/lwjgl-remotery-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-remotery/lwjgl-remotery-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-remotery/lwjgl-remotery-natives-macos.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

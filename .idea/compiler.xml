@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Java Game (in Progress)" options="--add-exports=java.base/jdk.internal.vm.annotation=game --add-exports=java.base/jdk.internal.misc=game --add-exports=java.base/jdk.internal.ref=game --add-exports=java.base/jdk.internal.reflect=game --add-exports=java.base/sun.nio.ch=game" />
+    </option>
+  </component>
+</project>

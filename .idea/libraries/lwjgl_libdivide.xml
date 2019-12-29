@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lwjgl-libdivide">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-libdivide/lwjgl-libdivide-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-libdivide/lwjgl-libdivide.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-libdivide/lwjgl-libdivide-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-libdivide/lwjgl-libdivide-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-libdivide/lwjgl-libdivide-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-libdivide/lwjgl-libdivide-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

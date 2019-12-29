@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lwjgl-assimp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-assimp/lwjgl-assimp-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-assimp/lwjgl-assimp-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-assimp/lwjgl-assimp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-assimp/lwjgl-assimp-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-assimp/lwjgl-assimp-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-assimp/lwjgl-assimp-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

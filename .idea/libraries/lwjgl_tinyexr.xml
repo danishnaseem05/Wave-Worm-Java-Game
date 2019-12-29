@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lwjgl-tinyexr">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-tinyexr/lwjgl-tinyexr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-tinyexr/lwjgl-tinyexr-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-tinyexr/lwjgl-tinyexr-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-tinyexr/lwjgl-tinyexr-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-tinyexr/lwjgl-tinyexr-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SoundLibs/lwjgl-3.2.1/lwjgl-tinyexr/lwjgl-tinyexr-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
